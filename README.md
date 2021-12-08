@@ -17,7 +17,7 @@ You only need to specify the flags(`u`, `o`, `c`) to run, downloader will automa
 
 ```bash
 git clone https://github.com/q-meet/m3u8Tool.git
-cd github.com/q-meet/m3u8Tool && go build
+cd m3u8Tool && go build
 ```
 
 ### Download
